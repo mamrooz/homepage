@@ -1,0 +1,9 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    <text x="-31%" y="55%" dominant-baseline="middle" text-anchor="middle" fill="#222222" font-size="62"
+          stroke-linejoin="round" font-family="TimesNewRoman" font-weight="900" transform="scale(-1, 1)">R
+    </text>
+    <text x="69%" y="55%" dominant-baseline="middle" text-anchor="middle" fill="#222222" font-size="62"
+          stroke-linejoin="round" font-family="TimesNewRoman" font-weight="900">R
+    </text>
+    <circle cx="50" cy="50" r="47" stroke="#333333" stroke-width="6" fill-opacity="0"/>
+</svg>
